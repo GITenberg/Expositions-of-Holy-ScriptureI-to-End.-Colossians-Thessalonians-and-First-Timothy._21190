@@ -1,0 +1,33 @@
+_repo: Expositions-of-Holy-ScriptureI-to-End.-Colossians-Thessalonians-and-First-Timothy._21190
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maclaren, Alexander
+    alias: McLaren, Alexander
+    birthdate: 1826
+    deathdate: 1910
+    gutenberg_agent_id: '2330'
+    url: http://www.gutenberg.org/2009/agents/2330
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Maclaren
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2007-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Epistles of Paul -- Commentaries'
+title: 'Expositions of Holy Scripture
+
+  Second Corinthians, Galatians, and Philippians Chapters
+
+  I to End. Colossians, Thessalonians, and First Timothy.'
+url: http://www.gutenberg.org/ebooks/21190
